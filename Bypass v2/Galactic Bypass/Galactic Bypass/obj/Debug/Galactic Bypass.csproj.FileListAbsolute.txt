@@ -1,0 +1,7 @@
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\bin\Debug\Galactic Bypass.exe.config
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\bin\Debug\Galactic Bypass.exe
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\bin\Debug\Galactic Bypass.pdb
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\obj\Debug\Galactic Bypass.csproj.AssemblyReference.cache
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\obj\Debug\Galactic Bypass.csproj.CoreCompileInputs.cache
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\obj\Debug\Galactic Bypass.exe
+E:\Downloads\Bypass v2\Galactic Bypass\Galactic Bypass\obj\Debug\Galactic Bypass.pdb
